@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "I'm a mess",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2025-12-14T04:03:32.900535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm a Mess",
+      "artist": "Body Language",
+      "has_synced": true,
+      "path": "select/01_I'm_a_Mess_Body_Language.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm a Mess",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/02_I'm_a_Mess_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm A Mess",
+      "artist": "The Rasmus",
+      "has_synced": true,
+      "path": "select/03_I'm_A_Mess_The_Rasmus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm a Mess",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/04_I'm_a_Mess_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm a Mess",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/05_I'm_a_Mess_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I’m a Mess",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/06_I’m_a_Mess_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'm A Mess",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/07_I'm_A_Mess_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm A Mess.",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/08_I'm_A_Mess._Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'm A Mess",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/09_I'm_A_Mess_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I’m a Mess",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/10_I’m_a_Mess_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I’m a Mess (with YUNGBLUD)",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/11_I’m_a_Mess_(with_YUNGBLUD)_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I’m a Mess (with YUNGBLUD)",
+      "artist": "Avril Lavigne, YUNGBLUD",
+      "has_synced": true,
+      "path": "select/12_I’m_a_Mess_(with_YUNGBLUD)_Avril_Lavigne,_YUNGBLUD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'm a Mess (Acoustic)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/13_I'm_a_Mess_(Acoustic)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'm a Mess",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/14_I'm_a_Mess_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'm a mess",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_I'm_a_mess_MY_FIRST_STORY.txt"
+    }
+  ]
+}
